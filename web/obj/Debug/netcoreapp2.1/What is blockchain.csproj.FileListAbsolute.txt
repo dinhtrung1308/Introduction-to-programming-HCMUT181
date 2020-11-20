@@ -1,0 +1,14 @@
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\bin\Debug\netcoreapp2.1\What is blockchain.deps.json
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\bin\Debug\netcoreapp2.1\What is blockchain.runtimeconfig.json
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\bin\Debug\netcoreapp2.1\What is blockchain.runtimeconfig.dev.json
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\bin\Debug\netcoreapp2.1\What is blockchain.dll
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\bin\Debug\netcoreapp2.1\What is blockchain.pdb
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.csprojAssemblyReference.cache
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.csproj.CoreCompileInputs.cache
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.RazorAssemblyInfo.cache
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.RazorAssemblyInfo.cs
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.AssemblyInfoInputs.cache
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.AssemblyInfo.cs
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.RazorTargetAssemblyInfo.cache
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.dll
+D:\Software\Microsoft Visual Studio\2019\Source\Repos\What is blockchain\obj\Debug\netcoreapp2.1\What is blockchain.pdb
